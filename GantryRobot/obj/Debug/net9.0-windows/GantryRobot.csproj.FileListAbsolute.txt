@@ -1,0 +1,14 @@
+E:\Opencode_work\GantryRobot\bin\Debug\net9.0-windows\GantryRobot.exe
+E:\Opencode_work\GantryRobot\bin\Debug\net9.0-windows\GantryRobot.deps.json
+E:\Opencode_work\GantryRobot\bin\Debug\net9.0-windows\GantryRobot.runtimeconfig.json
+E:\Opencode_work\GantryRobot\bin\Debug\net9.0-windows\GantryRobot.dll
+E:\Opencode_work\GantryRobot\bin\Debug\net9.0-windows\GantryRobot.pdb
+E:\Opencode_work\GantryRobot\obj\Debug\net9.0-windows\GantryRobot.GeneratedMSBuildEditorConfig.editorconfig
+E:\Opencode_work\GantryRobot\obj\Debug\net9.0-windows\GantryRobot.AssemblyInfoInputs.cache
+E:\Opencode_work\GantryRobot\obj\Debug\net9.0-windows\GantryRobot.AssemblyInfo.cs
+E:\Opencode_work\GantryRobot\obj\Debug\net9.0-windows\GantryRobot.csproj.CoreCompileInputs.cache
+E:\Opencode_work\GantryRobot\obj\Debug\net9.0-windows\GantryRobot.dll
+E:\Opencode_work\GantryRobot\obj\Debug\net9.0-windows\refint\GantryRobot.dll
+E:\Opencode_work\GantryRobot\obj\Debug\net9.0-windows\GantryRobot.pdb
+E:\Opencode_work\GantryRobot\obj\Debug\net9.0-windows\GantryRobot.genruntimeconfig.cache
+E:\Opencode_work\GantryRobot\obj\Debug\net9.0-windows\ref\GantryRobot.dll

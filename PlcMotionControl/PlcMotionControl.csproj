@@ -1,0 +1,18 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <OutputType>WinExe</OutputType>
+    <TargetFramework>net9.0-windows</TargetFramework>
+    <Nullable>enable</Nullable>
+    <UseWindowsForms>true</UseWindowsForms>
+    <ImplicitUsings>enable</ImplicitUsings>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <!-- OPC UA: 取消注释以下两行以启用真实 OPC UA 通信（需联网下载包） -->
+    <!-- <PackageReference Include="OPCFoundation.NetStandard.Opc.Ua" Version="1.5.374.178" /> -->
+    <!-- <PackageReference Include="OPCFoundation.NetStandard.Opc.Ua.Client" Version="1.5.374.178" /> -->
+    <PackageReference Include="EasyModbusTCP" Version="5.6.0" />
+  </ItemGroup>
+
+</Project>
